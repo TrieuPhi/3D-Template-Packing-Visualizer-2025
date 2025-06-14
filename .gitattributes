@@ -1,0 +1,6 @@
+# Ensure consistent line endings and prevent CRLF/LF warnings
+* text=auto
+*.py text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.ipynb text eol=lf
